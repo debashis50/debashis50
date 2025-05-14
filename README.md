@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/@debashis_50953" target="blank"><img src="https://img.shields.io/twitter/follow/debashis_50953?logo=twitter&style=for-the-badge" alt="@debashis_50953" /></a> </p>
 
 - 📫 How to reach me **debashiskumardas97@gmail.com**
-- 🎓 Studied Computer Science and Engineering at <a href="https://www.aiub.edu">AIUB</a>
+- 🎓 Studied Computer Science and Engineering at <a href="https://www.aiub.edu" target="_blank">AIUB</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
