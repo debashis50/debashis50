@@ -15,7 +15,7 @@
 <a href="https://twitter.com/@debashis_50953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debashis_50953" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/debashiskumar-das/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debashis-kumar-das-1514b527a" height="30" width="40" /></a>
 <a href="https://fb.com/debashiskumar.das.503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debashiskumar.das.503" height="30" width="40" /></a>
-<a href="https://instagram.com/debashis_das.983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debashis_das.983" height="30" width="40" /></a>
+<a href="https://www.instagram.com/debashis_kumar.das/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debashis_das.983" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/debashis69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="debashis69" height="30" width="40" /></a>
 </p>
 
